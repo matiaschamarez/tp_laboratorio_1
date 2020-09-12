@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1599872917 source:c:\users\mec45\desktop\tecniatura en programacion\programacion\trabajos en clase\trabajo practico n1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"calculadora.h"
+
+1599872876 source:c:\users\mec45\desktop\tecniatura en programacion\programacion\trabajos en clase\trabajo practico n1\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1599872906 c:\users\mec45\desktop\tecniatura en programacion\programacion\trabajos en clase\trabajo practico n1\calculadora.h
+

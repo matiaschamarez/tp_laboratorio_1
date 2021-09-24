@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1631665538 source:c:\users\mec45\desktop\primer cuatrimestre\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1632001002 source:c:\users\mec45\desktop\primer cuatrimestre\programacionlabo\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"chamarez.h"
+
+1632001002 c:\users\mec45\desktop\primer cuatrimestre\programacionlabo\calculadora\chamarez.h
+
+1632001056 source:c:\users\mec45\desktop\primer cuatrimestre\programacionlabo\calculadora\chamarez.c
+	"chamarez.h"
+	<stdlib.h>
+	<stdio.h>
+
